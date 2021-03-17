@@ -1,62 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://SAMU.COM/index.html</loc>
-    <lastmod>2021-03-16</lastmod>
+    <loc>http://sarmm.com/index.html</loc>
+    <lastmod>2021-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://SAMU.COM/images/sitio-web.svg</loc>
-    <lastmod>2021-03-16</lastmod>
+    <loc>http://sarmm.com/assets/captura.png</loc>
+    <lastmod>2021-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://SAMU.COM/images/grafico-de-barras.svg</loc>
-    <lastmod>2021-03-16</lastmod>
+    <loc>http://sarmm.com/assets/0p,0.png</loc>
+    <lastmod>2021-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://SAMU.COM/images/descargar-archivo.svg</loc>
-    <lastmod>2021-03-16</lastmod>
+    <loc>http://sarmm.com/assets/descarga.png</loc>
+    <lastmod>2021-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://SAMU.COM/images/asistencia-social.svg</loc>
-    <lastmod>2021-03-16</lastmod>
+    <loc>http://sarmm.com/assets/p0p.png</loc>
+    <lastmod>2021-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://SAMU.COM/images/edicion-de-video.svg</loc>
-    <lastmod>2021-03-16</lastmod>
+    <loc>http://sarmm.com/assets/fg.jpg</loc>
+    <lastmod>2021-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://SAMU.COM/images/computadora.svg</loc>
-    <lastmod>2021-03-16</lastmod>
+    <loc>http://sarmm.com/assets/lll.jpg</loc>
+    <lastmod>2021-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://SAMU.COM/images/contrato.svg</loc>
-    <lastmod>2021-03-16</lastmod>
+    <loc>http://sarmm.com/assets/faviconnkln.png</loc>
+    <lastmod>2021-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://SAMU.COM/images/reproductor-de-dvd.svg</loc>
-    <lastmod>2021-03-16</lastmod>
+    <loc>http://sarmm.com/images/edicion-de-video.svg</loc>
+    <lastmod>2021-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://SAMU.COM/images/escoba.svg</loc>
-    <lastmod>2021-03-16</lastmod>
+    <loc>http://sarmm.com/assets/adobe-premiere-pro-logo-3.png</loc>
+    <lastmod>2021-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sarmm.com/images/grafico-de-barras.svg</loc>
+    <lastmod>2021-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sarmm.com/images/descargar-archivo.svg</loc>
+    <lastmod>2021-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sarmm.com/images/asistencia-social.svg</loc>
+    <lastmod>2021-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sarmm.com/images/escoba.svg</loc>
+    <lastmod>2021-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sarmm.com/images/computadora.svg</loc>
+    <lastmod>2021-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sarmm.com/images/contrato.svg</loc>
+    <lastmod>2021-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sarmm.com/images/reproductor-de-dvd.svg</loc>
+    <lastmod>2021-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sarmm.com/images/sitio-web.svg</loc>
+    <lastmod>2021-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
